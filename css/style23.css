@@ -115,9 +115,9 @@ position: relative;
 }
 .benefits__wrap-item {
    display: flex;
-   padding: 0 100px;
+   padding: 50px 100px 60px 100px;
    gap: 55px;
-   padding-bottom: 60px;
+
 }
 .benefits__item {
    flex: 0 1 33.333%;
